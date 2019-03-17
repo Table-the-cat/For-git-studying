@@ -1,1 +1,2 @@
-First file written by Notepad++;
+My first file written by Notepad++;
+Now adding something;
